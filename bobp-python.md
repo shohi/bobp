@@ -1,6 +1,6 @@
-# The Best of the Best Practices (BOBP) Guide for Python
+# The Best of the Best Practices (BOBP) Guide for Python 
 
-A "Best of the Best Practices" (BOBP) guide to developing in Python.
+A "Best of the Best Practices" (BOBP) guide to developing in Python. (Forked from https://gist.github.com/sloria/7001839)
 
 ## In General
 
