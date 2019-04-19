@@ -17,6 +17,7 @@
 
 ### Misc
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
 - [RFD 106 Engineering Guide - Go Best Practices](https://github.com/joyent/rfd/blob/master/rfd/0106/README.adoc)
 
