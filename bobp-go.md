@@ -10,8 +10,10 @@
 
 
 ### Style
-- [Style guideline for Go packages](https://rakyll.org/style-packages/)
+- [The Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Go Styleguide](https://github.com/bahlo/go-styleguide)
+- [Style guideline for Go packages](https://rakyll.org/style-packages/)
+
 - [Go testing style guide](https://arp242.net/weblog/go-testing-style.html)
 
 
